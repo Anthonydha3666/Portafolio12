@@ -41,7 +41,7 @@ h1 {
 
 .hero {
     background-color: #f5f6f7;
-    min-width: 450px;
+    min-width: 250px;
     text-align: center;
 }
 
@@ -75,6 +75,7 @@ h1 {
     font-size: 2rem;
     padding: 15px 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 .seccion-texto{
     font-size: 1.2rem;
@@ -127,6 +128,7 @@ h1 {
 .seccion-description{
     font-size: 1.2rem;
     color: #584e4e;
+    text-align: center;
 }
 .texto-blanco{
     color: white;
